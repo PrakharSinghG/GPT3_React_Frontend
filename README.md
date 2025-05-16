@@ -1,12 +1,26 @@
-# React + Vite
+# GPT-3 Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive landing page built using **React** and **CSS**, inspired by GPT-3 and OpenAI. This project showcases a sleek UI with dynamic sections, modern design aesthetics, and clean structure suitable for product or tech startup pages.
 
-Currently, two official plugins are available:
+![GPT-3 Website Preview](./assets/screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔥 Hero section with vibrant gradient headings and call-to-action
+- 📦 Modern navigation bar with active state and sign-in/sign-up actions
+- 📈 Information-rich sections: What is GPT-3, Features, Benefits
+- 🖼️ Image and icon usage for engagement
+- 📬 Email subscription section
+- 🧠 Blog cards section with hover effects
+- 📱 Fully responsive design for all screen sizes
+- 🌈 Gradient CTA and smooth UI transitions
+
+---
+
+## 🚀 Live Demo
+
+> [Click here to view the site live](https://github.com/PrakharSinghG/GPT3_React_Frontend)
+
+---
