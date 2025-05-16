@@ -2,7 +2,7 @@
 
 A modern, fully responsive landing page built using **React** and **CSS**, inspired by GPT-3 and OpenAI. This project showcases a sleek UI with dynamic sections, modern design aesthetics, and clean structure suitable for product or tech startup pages.
 
-![GPT-3 Website Preview](./assets/screenshot.png)
+![GPT-3 Website Preview](./src/assets/screenshot.png)
 
 ---
 
